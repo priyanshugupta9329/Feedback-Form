@@ -1,0 +1,21 @@
+/* *{
+    align-items: center;
+} */
+
+.start{
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+.start_button{
+
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 0px;
+    color: black;
+    background-color: #FFD712;
+    cursor: pointer;
+    margin-left: 78px;
+}
